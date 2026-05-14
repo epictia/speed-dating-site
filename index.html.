@@ -1164,8 +1164,8 @@
         <p>Certaines soirées accueillent tous les profils — pour ceux qui aiment la diversité et les rencontres sans frontière d'age.</p>
       </div>
       <div class="tranche-card">
-        <h4>LGBT+</h4>
-        <p>Des soirées inclusives dédiées à la communauté LGBT+, dans le même esprit de bienveillance et d'ouverture.</p>
+        <h4>LGBT</h4>
+        <p>Des soirées inclusives dédiées à la communauté LGBT, dans le même esprit de bienveillance et d'ouverture.</p>
       </div>
     </div>
   </div>
@@ -1365,7 +1365,7 @@
         <div class="event-card">
           <div class="event-info">
             <span class="event-date">Jeudi 18 juin 2026</span>
-            <span class="event-tag">LGBT+</span>
+            <span class="event-tag">LGBT</span>
           </div>
           <div class="event-meta">
             <span class="event-prix">20€</span>
